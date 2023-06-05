@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c98ee74f-6a42-402e-b7c7-917cdafdf87a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/ImageTarget.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/ImageTarget.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/New Animation.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/New Animation.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/newHolb.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/newHolb/image2_scaled.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/newHolb/image2_scaled.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/newHolb/image_scaled.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/newHolb/image_scaled.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/urlOpener.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/urlOpener.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/newHolb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/newHolb.dat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/newHolb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/newHolb.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.0x09-unity-ar_business_card/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.0x09-unity-ar_business_card/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/UI.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/UI.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/UI.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/UI.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Common/Scripts/MenuOptions.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Common/Scripts/MenuOptions.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Common/Scripts/TapHandler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Common/Scripts/TapHandler.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Github.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Github.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Gmail.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Gmail.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Insta.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Insta.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Linkedin.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Linkedin.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Number.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Number.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SamplesResources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SamplesResources.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SamplesResources/SceneAssets/VirtualButtons/Materials/VirtualButtonOpaqueMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SamplesResources/SceneAssets/VirtualButtons/Materials/VirtualButtonOpaqueMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SamplesResources/SceneAssets/VirtualButtons/Materials/VirtualButtonTransparentMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SamplesResources/SceneAssets/VirtualButtons/Materials/VirtualButtonTransparentMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SamplesResources/SceneAssets/VirtualButtons/Scripts/VirtualButtonEventHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SamplesResources/SceneAssets/VirtualButtons/Scripts/VirtualButtonEventHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SamplesResources/Scenes/3-VirtualButtons.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SamplesResources/Scenes/3-VirtualButtons.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ARBusinessCard.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ARBusinessCard.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ARBusinessCard.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ARBusinessCard.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buttons.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buttons.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.9.0/Editor/PlasticSCM/Configuration/TurnOffPlastic/TurnOffPlasticWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/urlOpener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.ptc.vuforia.engine@60a222d96f64-1636548376000/Vuforia/Scripts/DefaultAreaTargetEventHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Framework/Control/ToggleValue.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.ptc.vuforia.engine@60a222d96f64-1636548376000/Vuforia/Scripts/DefaultObserverEventHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Flow/Options/UnitOption.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.5.6/DocCodeExamples/TimelineAttributesExamples.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="21Fr8aDa0hpOi4NrDiDCBxrV5OJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.environmentSetup" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c98ee74f-6a42-402e-b7c7-917cdafdf87a" name="Changes" comment="" />
+      <created>1637547584938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637547584938</updated>
+      <workItem from="1637547584942" duration="4000" />
+      <workItem from="1637603264663" duration="2515000" />
+      <workItem from="1637777284490" duration="4503000" />
+      <workItem from="1637786922572" duration="2835000" />
+      <workItem from="1637840396727" duration="1341000" />
+      <workItem from="1637845840652" duration="5006000" />
+      <workItem from="1637872460776" duration="356000" />
+      <workItem from="1637872985400" duration="124000" />
+      <workItem from="1637873271812" duration="553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
